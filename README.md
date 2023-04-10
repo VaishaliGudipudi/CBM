@@ -41,3 +41,9 @@ KEY HIGHLIGHTS:
 3.Built various Regression models namely Linear Regression, Decision Tree Regression, Random Forest Regression, Support Vector Regression, Bagging Regresssion, KNN Regression
 
 Compared the results to recommend the best regression model suitable for naval propulsion condition based management
+
+Link to colab notebook:
+https://github.com/VaishaliGudipudi/CBM-of-Naval-Propulsion-plant/blob/main/final_ml_book.ipynb
+
+Link to PPT(PRESENTATION):
+https://github.com/VaishaliGudipudi/CBM-of-Naval-Propulsion-plant/blob/main/PPT_CBM%20of%20Naval%20Propulsion%20plant_final.pptx
